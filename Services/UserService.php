@@ -14,7 +14,7 @@ class UserService
 
     public function __construct()
     {
-        $this->loadMockData();
+        // $this->loadMockData();
     }
 
     /**
